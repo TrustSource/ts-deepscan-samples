@@ -1,0 +1,6 @@
+[submodule "thirdparty/cpp-base64"]
+	path = thirdparty/cpp-base64
+	url = https://github.com/ReneNyffenegger/cpp-base64.git
+[submodule "thirdparty/Catch2"]
+	path = thirdparty/Catch2
+	url = https://github.com/catchorg/Catch2.git
